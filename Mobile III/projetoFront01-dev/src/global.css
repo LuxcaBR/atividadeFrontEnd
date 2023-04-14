@@ -7,7 +7,7 @@
 }
 
 :root {
-  --green: #00b37e;
+  --red: #d80000;
   --gray-light: #e1e1e6;
   --gray-dark: #8d8d99;
   --gray-600: #323238;
@@ -18,7 +18,7 @@
 }
 
 body {
-  background: #202015;
+  background: #262626;
   color: var(--gray-light);
 }
 

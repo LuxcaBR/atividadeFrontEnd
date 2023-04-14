@@ -5,7 +5,7 @@ export function App() {
     <div className={style.container}>
       <div className={style.card}>
         <img
-          src="https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=350&q=50"
+          src="https://cdn.pixabay.com/photo/2016/10/20/18/35/earth-1756274__340.jpg"
           alt="Cover"
         />
         <img
@@ -13,13 +13,15 @@ export function App() {
           src="https://github.com/LuxcaBR.png"
           alt="Avatar"
         />
-        <p className={style.p1}>Bruno S Velho</p>
-        <p className={style.p2}>Web Developer</p>
+        <p className={style.p1}>Lucas Eduardo Faleiro</p>
+        <p className={style.p2}>Um cara que odeia programação </p>
         <div className={style.stack}>
-          <span>#JavaScript</span>
-          <span>#Native</span>
-          <span>#Native</span>
-          <span>#Native</span>
+          <span>#GAMES</span>
+          <span>#HISTORY</span>
+          <span>#MILITARISM</span>
+          <span>#ROCK</span>
+          <span>#METAL</span>
+          <span>#SOCCER</span>
         </div>
       </div>
     </div>

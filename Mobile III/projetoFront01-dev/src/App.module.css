@@ -13,8 +13,8 @@
 
   align-items: center;
 
-  width: 25.6rem;
-  height: 29.4rem;
+  width: 50rem;
+  height: 59rem;
 
   border: 1px solid var(--color-bg-dark);
   border-radius: 8px;
@@ -24,19 +24,18 @@
 
 .card > img {
   width: 100%;
-  height: 7.2rem;
+  height: 12rem;
   object-fit: cover;
   border-radius: 8px 8px 0px 0px;
 }
 
 .card .avatar {
-  width: 60px;
-  height: 60px;
-  border-radius: 8px;
+  width: 120px;
+  height: 120px;
+  border-radius: 15px;
   margin-top: -3.5rem;
 
   border: 2.5px solid var(--color-bg-dark);
-  outline: 2.5px solid var(--green);
 }
 
 .card .p1 {
@@ -75,18 +74,18 @@
 }
 
 .card .stack span {
-  width: 7rem;
-  height: 2.3rem;
+  width: 20rem;
+  height: 9rem;
 
   display: flex;
-  background: var(--green);
+  background: var(--red);
   border-radius: 4px;
 
   align-items: center;
   justify-content: center;
 
   font-style: normal;
-  font-weight: 400;
-  font-size: 1.2rem;
+  font-weight: 600;
+  font-size: 3.2rem;
   line-height: 160%;
 }
